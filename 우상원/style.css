@@ -60,7 +60,7 @@ nav ul {
 
 
 .dropdown {
-    visibility: hidden;
+    visibility: hidden ;
     opacity: 0;
     width: 100vw;
     position: absolute;
